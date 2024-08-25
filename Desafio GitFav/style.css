@@ -112,11 +112,11 @@
   }
   
   table tr:nth-child(even) {
-    background: #eee;
+    background: #717171;
   }
   
   table tr:nth-child(odd) {
-    background: #ddd;
+    background: #9a9a9a;
   }
   
   table td {
